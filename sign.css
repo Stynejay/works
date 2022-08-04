@@ -156,20 +156,26 @@ body{
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        padding: 5px;
         
+    }
+    h1{
+        text-align: center;
+        padding: 0px 60px 0px 60px;
+
     }
     .p1{
         font-size: 25px;
         font-weight: 300;
         text-align: center;
-        
+        padding: 0px 60px 0px 60px;
+
     }
     .div2{
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        padding:40px 0px 0px 80px;
         padding: 5px;
     
     }
@@ -210,7 +216,7 @@ body{
     }
     .p3{
         text-align: center;
-        padding: 5px;
+        padding: 0px 60px 0px 60px;
     }
     .button2{
         display: flex;
